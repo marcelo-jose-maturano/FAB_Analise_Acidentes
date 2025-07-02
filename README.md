@@ -7,7 +7,7 @@ Este projeto realiza a análise exploratória dos dados de acidentes aeronáutic
 
 1. Clone este repositório.
 2. Instale as dependências listadas em `requirements.txt`.
-3. Execute o notebook disponível em `notebooks/`.
+3. Execute o notebook disponível.
 
 ## Dados
 
