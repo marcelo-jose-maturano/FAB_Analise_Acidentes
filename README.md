@@ -1,4 +1,4 @@
-# FAB_Analise_Acidentes
+# MVP_FAB_Analise_Acidentes
 # Análise de Acidentes Aeronáuticos no Brasil
 
 Este projeto realiza a análise exploratória dos dados de acidentes aeronáuticos no Brasil, identificando padrões, causas e tendências relevantes.
